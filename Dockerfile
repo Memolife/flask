@@ -1,4 +1,4 @@
-FROM    dockerfile/ubuntu
+FROM    ubuntu
 MAINTAINER  Alexander Brill <alex@brill.no>
 RUN \
   apt-get -y update && \
